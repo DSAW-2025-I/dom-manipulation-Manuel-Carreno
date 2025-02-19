@@ -56,4 +56,6 @@ El objetivo de este taller es hacer que el carrusel que desarrolles se vea corre
 
 ## Link pagina desplegada:
 https://manuel-carreno.github.io/Carrusel-Imagenes/
-Hecho por: Manuel David Carreño Buitrago
+
+## Hecho por: 
+Manuel David Carreño Buitrago
